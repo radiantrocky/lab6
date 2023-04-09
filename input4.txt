@@ -1,0 +1,6 @@
+Insert
+9 3 7 43 2
+Remove
+2
+Traverse
+43 9 7 3
